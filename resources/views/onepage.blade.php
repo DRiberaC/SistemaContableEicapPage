@@ -44,7 +44,7 @@
                         <ul class="navbar-nav flex-row align-items-center ms-auto" data-sm-skip="true">
                             <li class="nav-item d-none d-md-block">
                                 {{-- <a href="contact.html" class="btn btn-sm btn-primary rounded-pill">Descargar</a> --}}
-                                <a href="descargas/SistemaContableEICAPV3.3.1.exe"
+                                <a href="public/descargas/SistemaContableEICAPV3.3.1.exe"
                                     id="get-request" class="btn btn-sm btn-primary rounded-pill" download>Descargar</a>
                             </li>
                             <li class="nav-item d-lg-none">
