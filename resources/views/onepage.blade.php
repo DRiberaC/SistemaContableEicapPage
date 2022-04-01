@@ -44,7 +44,10 @@
                         <ul class="navbar-nav flex-row align-items-center ms-auto" data-sm-skip="true">
                             <li class="nav-item d-none d-md-block">
                                 {{-- <a href="contact.html" class="btn btn-sm btn-primary rounded-pill">Descargar</a> --}}
-                                <a href="public/descargas/SistemaContableEICAPV3.3.1.exe" class="btn btn-sm btn-primary rounded-pill"target="_blank" download>Descargar</a>
+                                <a href="public/descargas/SistemaContableEICAPV3.6.0.exe"
+                                    class="btn btn-sm btn-primary rounded-pill" target="_blank" download>
+                                    Descargar
+                                </a>
                             </li>
                             <li class="nav-item d-lg-none">
                                 <div class="navbar-hamburger"><button class="hamburger animate plain"
