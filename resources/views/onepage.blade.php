@@ -253,7 +253,7 @@
                         <h4 class="widget-title text-white mb-3">Nuestra dirección.</h4>
                         <address class="pe-xl-15 pe-xxl-17">
                             Av. Santos Dumont entre 2do y 3er anillo, Frente al Colegio Militar de Aviación COMILAV,
-                            calle C, No. 15 Santa Cruz de la Sierra, Bolivia
+                            calle C, No. 15 Santa Cruz de la Sierra, Bolivia.
                         </address>
                         Email: <a>escueladecapacitacion@eicap.com.bo</span></a><br />
                         Cel: 76855562
