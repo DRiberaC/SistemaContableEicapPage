@@ -32,8 +32,8 @@
                         </div>
                         <ul class="navbar-nav">
                             <li class="nav-item"><a class="nav-link scroll" href="#home">Inicio</a></li>
-                            <li class="nav-item"><a class="nav-link scroll"
-                                    href="#caracteristicas">Características</a></li>
+                            <li class="nav-item"><a class="nav-link scroll" href="#caracteristicas">Características</a>
+                            </li>
                             <li class="nav-item"><a class="nav-link scroll" href="#presentacion">Presentación</a>
                             </li>
                         </ul>
@@ -44,7 +44,7 @@
                         <ul class="navbar-nav flex-row align-items-center ms-auto" data-sm-skip="true">
                             <li class="nav-item d-none d-md-block">
                                 {{-- <a href="contact.html" class="btn btn-sm btn-primary rounded-pill">Descargar</a> --}}
-                                <a href="public/descargas/SistemaContableEICAPV3.6.0.exe"
+                                <a href="public/descargas/SistemaContableEICAPV3.13.0.exe"
                                     class="btn btn-sm btn-primary rounded-pill" target="_blank" download>
                                     Descargar
                                 </a>
@@ -113,8 +113,8 @@
                                         <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
                                             <li><span><i class="uil uil-check"></i></span><span>Contabilidad
                                                     automatizada.</span></li>
-                                            <li class="mt-3"><span><i
-                                                        class="uil uil-check"></i></span><span>Libro de Compras y
+                                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>Libro de
+                                                    Compras y
                                                     ventas (Estándar, SIAT).</span></li>
                                         </ul>
                                     </div>
@@ -123,8 +123,8 @@
                                         <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
                                             <li><span><i class="uil uil-check"></i></span><span>Multiempresa.</span>
                                             </li>
-                                            <li class="mt-3"><span><i
-                                                        class="uil uil-check"></i></span><span>Reportes de E.E.F.F.
+                                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>Reportes
+                                                    de E.E.F.F.
                                                 </span></li>
                                         </ul>
                                     </div>
@@ -191,9 +191,10 @@
                                 class="icn-caret-right"></i></a>
                         <figure class="rounded"><img src="assets/img/capturas/CapturaInicio.png"
                                 srcset="./assets/img/photos/about12@2x.jpg 2x" alt=""></figure> --}}
-                        <video poster="assets/img/capturas/CapturaInicio.png" class="player" playsinline
-                            controls preload="none">
-                            <source src="https://content.jwplatform.com/videos/H1OYSCR0-c6G4Isae.mp4" type="video/mp4">
+                        <video poster="assets/img/capturas/CapturaInicio.png" class="player" playsinline controls
+                            preload="none">
+                            <source src="https://content.jwplatform.com/videos/H1OYSCR0-c6G4Isae.mp4"
+                                type="video/mp4">
                             <!-- <source src="https://content.jwplatform.com/videos/H1OYSCR0-c6G4Isae.mp4" type="video/mp4"> -->
                         </video>
                     </div>
